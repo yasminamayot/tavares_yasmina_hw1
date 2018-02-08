@@ -1,0 +1,262 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Basic Reset*/
+/*Reset some built in browser values*/
+
+#container
+{
+	width: 980px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+#mainHeader
+{
+	clear: both;
+	overflow: hidden;
+	padding-bottom: 40px;
+}
+
+#mainTitle
+{
+  text-align: center;
+}
+
+#subTitle
+{
+  text-align: center;
+}
+
+#cityYas
+{
+	overflow: hidden;
+	padding-bottom: 10px;
+  padding-left: 136px;
+  padding-right:136px;
+
+}
+
+h2
+{
+	color: #717576;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  text-align: center;
+}
+
+#firstPhoto
+{
+	overflow: hidden;
+	text-align: center;
+  width: 960px;
+}
+
+#grad
+{
+  overflow: hidden;
+  padding-top: 20px;
+  padding-left: 136px;
+  padding-right:136px;
+}
+
+#hocoPhoto
+
+{
+	width: 422px;
+  height: 632px;
+  padding-left: 269px;
+  padding-right:269px;
+}
+
+#photography
+{
+  padding-top: 20px;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+
+h3
+{
+	font-size: 19px;
+	color: #717576;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+p
+{
+	font-size: 15px;
+	color: #717576;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  text-align: center;
+}
+
+#featuredBlog p
+{
+	font-size: 15px;
+	color: #717576;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#coffeeDate
+{
+	width: 275px;
+	float: left;
+	margin-right: 23px;
+	margin-left: 23px;
+}
+
+#livingRoom
+{
+	width: 275px;
+	float: left;
+	margin-right: 23px;
+}
+
+#bestfriends
+{
+	width: 275px;
+	float: left;
+	margin-right: 23px;
+}
+
+.resBut
+{
+	font-size: 15px;
+	color: #717576;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-decoration-line: none;
+}
+
+.resBut:hover
+{
+	color: #7cbde9;
+}
+
+#footerNav
+{
+	float:right;
+}
+
+#logoFooter
+{
+
+	padding-top: 40px;
+}
+
+#mainFooter
+{
+	overflow: hidden;
+	width: 980px;
+	height: 100%;
+}
+
+#mainFooter ul li
+{
+	text-decoration: none;
+	display: inline;
+}
+
+#mainFooter ul li a
+{
+	color: #717576;
+	padding: 5px;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#mainFooter ul li a:hover
+{
+	color: #7cbde9;
+}
+
+#socialMediaCon
+{
+	overflow: hidden;
+}
+
+#facebook
+{
+	float: right;
+	padding-bottom: 20px;
+}
+
+#twitter
+{
+	float: right;
+}
+
+#instagram
+{
+	float: right;
+}
+
+#laptopLateNight
+{
+	float:left;
+	width: 535px;
+	padding-bottom: 70px;
+}
+
+#diyDecor
+{
+	float: left;
+	width: 430px;
+	padding-left: 15px;
+}
+
+#contentCon
+{
+	margin-top: 40px;
+	overflow: hidden;
+	border-bottom: solid 1px #DDD;
+	padding-bottom: 40px;
+}
+
+#contentCon p
+{
+    font-size: 14px;
+}
+
+#content1
+{
+	float: left;
+	width: 440px;
+	border-right: solid 1px #DDD;
+    margin-left: 20px;
+}
+
+#form
+{
+	align-content: center;
+	margin-top: 20px;
+}
+
+#form label
+{
+    font-size: 14px;
+}
+
+#form div
+{
+    margin-top:20px;
+}
+
+#submit, reset
+{
+    margin-top: 20px;
+    margin-right: 5px;
+}
+/* end form*/
+
+#content2
+{
+	float: right;
+	width: 440px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+#content2 p
+{
+    margin-top: 20px;
+}
